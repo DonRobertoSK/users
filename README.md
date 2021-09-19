@@ -22,4 +22,5 @@ This project is using Gradle build tool:
 - for running in command line use 'gradle run' command
 - for running test use 'gradle test' command
 - for building distribution package use 'gradle build'
+
 Alternatively you can use graddle wrapper in a project directory.
